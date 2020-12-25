@@ -1,12 +1,13 @@
 #NLP for Sentimental Analysis
 ##Data Taken from Covid-19 Tweets
+
 ###Links:
 [Kaggle](https://www.kaggle.com/datatattle/covid-19-nlp-text-classification)
 
 
 ##Data Overview:
-> Shape:
->>(32567,6)
+32,567 Entries
+
 > Columns:
 >>+ UserName
 >>+ ScreenName
@@ -23,4 +24,4 @@
 
 ##Model Overview:
 
-`SGDClassifier` has produced our best Bag of words model with a 52% Accuracy. 
+`SGDClassifier` has produced our best Bag-of-words model with a 52% Accuracy. 
