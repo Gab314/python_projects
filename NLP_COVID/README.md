@@ -20,11 +20,13 @@
 
 ## Models:
 
-+ Bag of Words, testing with a few **Scikit-learn** classifiers, and **NLKT** for data pre-processing
-+ RNN Coming Soon
++ Bag of Words, testing with a few **Scikit-learn** classifiers, and **NLKT** for data pre-processing.
++ RNN Coming Soon.
 
 
 ## Model Overview:
 
 `SGDClassifier` has produced our best Bag-of-words model with a 52% Accuracy.
+
+
 ![TextExplainer](assets/lime_text.png)
