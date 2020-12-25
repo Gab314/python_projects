@@ -8,6 +8,8 @@
 ##Data Overview:
 32,567 Entries
 
+![Sentiment_count](assets/sentiment_count.png)
+
 > Columns:
 >>+ UserName
 >>+ ScreenName
@@ -24,4 +26,5 @@
 
 ## Model Overview:
 
-`SGDClassifier` has produced our best Bag-of-words model with a 52% Accuracy. 
+`SGDClassifier` has produced our best Bag-of-words model with a 52% Accuracy.
+![TextExplainer](assets/lime_text.png)
