@@ -1,7 +1,7 @@
-#NLP for Sentimental Analysis
-##Data Taken from Covid-19 Tweets
+# NLP for Sentimental Analysis
+## Data Taken from Covid-19 Tweets
 
-###Links:
+### Links:
 [Kaggle](https://www.kaggle.com/datatattle/covid-19-nlp-text-classification)
 
 
@@ -16,12 +16,12 @@
 >>+ OriginalTweet
 >>+ Sentiment
 
-##Models:
+## Models:
 
 + Bag of Words, testing with a few **Scikit-learn** classifiers, and **NLKT** for data pre-processing
 + RNN Coming Soon
 
 
-##Model Overview:
+## Model Overview:
 
 `SGDClassifier` has produced our best Bag-of-words model with a 52% Accuracy. 
