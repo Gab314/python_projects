@@ -20,8 +20,8 @@
 
 ## Models:
 
-+ Bag of Words, testing with a few **Scikit-learn** classifiers, and **NLKT** for data pre-processing.
-+ RNN Coming Soon.
++ Bag of Words, tested with a few **Scikit-learn** classifiers, and **NLKT** for data pre-processing.
++ LSTM, Simple Model with the words as input using **Keras** library.
 
 
 ## Model Overview:
@@ -30,3 +30,9 @@
 
 
 ![TextExplainer](assets/lime_text.png)
+
+
+`LSTM` Simple Model with 68% Accuracy. 
+
+![LSTM1_Summary](assets/lstm1_summary.png)
+![LSTM1_AccLoss](assets/lstm1_acc_loss.png)
