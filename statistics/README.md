@@ -18,4 +18,8 @@
 | `Binomial`                  | 0, 1,...N                 | Coin Flips N Times                                    | `Interval` | Binomial Distribution                       | Binomial Regression, Logistic, Probit   |
 | `Count`                     | Non-Negative Integers     | Number of items, people in given interval/area/volume | `Ratio`    | Poisson Distribution                        | Poisson                                 |
 | `Real-Value Additive`       | Real Numbers              | Temperature in Celsius, Relative Distance             | `Interval` | Normal Distribution                         | OLS
-| `Real-Value Multiplicative` | Non-negative Real Numbers | Temperature in Kelvin, Price, Size, Income            | `Ratio`    | Log-normal Distribution, Gamma, Exponential | GLM with Logarithmic Link                   |
+| `Real-Value Multiplicative` | Non-negative Real Numbers | Temperature in Kelvin, Price, Size, Income            | `Ratio`    | Log-normal Distribution, Gamma, Exponential | GLM with Logarithmic Link               |
+
+
+## Decision Matrix
+![matrix](assets/stats_matrix.png)
