@@ -4,6 +4,7 @@
 
 ## Index
 + Binary
+    + Matrix
     + Errors
     + Metrics
 + Categorical
@@ -14,5 +15,5 @@ Here we take a look at the simplest form of the matrix. a `2x2` with 2 classes, 
 
 | Actual \ Predicted    | Positive          |           Negative |
 | :---:                 | :---:             | :---:              |
-| Positive              | `True Positive`   | `False Negative`   |
-| Negative              | `False Positive`  | `True Negative`    |
+| Positive              | `True` Positive   | **False** Negative   |
+| Negative              | **False** Positive  | `True` Negative    |
