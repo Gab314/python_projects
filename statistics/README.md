@@ -21,5 +21,5 @@
 | `Real-Value Multiplicative` | Non-negative Real Numbers | Temperature in Kelvin, Price, Size, Income            | `Ratio`    | Log-normal Distribution, Gamma, Exponential | GLM with Logarithmic Link               |
 
 
-## Decision Matrix
+## Matrix
 ![matrix](assets/stats_matrix.png)
