@@ -20,9 +20,9 @@ Here we take a look at the simplest form of the matrix. a `2x2` with 2 classes, 
 | Positive              | `True` Positive   | **False** Negative   |
 | Negative              | **False** Positive  | `True` Negative    |
 
-Dissecting it:
-:   True Positive : `True` Correct Prediction, with `Positive` Result.
-:   True Negative : `True` Correct Prediction, with `Negative` Result.
+Dissecting it.
+True Positive : `True` Correct Prediction, with `Positive` Result.
+True Negative : `True` Correct Prediction, with `Negative` Result.
 
 ### Errors
 
